@@ -1,0 +1,6 @@
+{
+  "name": "Luna Studio",
+  "description": "A sophisticated, visual-first lunar calendar and astronomical utility, featuring interactive visualization, personalized color palettes, and astronomical event tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
